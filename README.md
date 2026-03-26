@@ -6,7 +6,7 @@ I have an undergraduate degree in Economics and am presently an MBA Candidate.  
 
 The projects shared on this profile are independent analyses in which I apply analytical tools and concepts acquired through my education and professional experience.  
 
-I am particularly interested in analytics as a means of story-telling; identifying patterns in data, and exploring relationships through regression and modelling, to provide insights that support leadership decision-making within real organisations.
+I am particularly interested in analytics as a means of story-telling; identifying patterns in data, and exploring relationships through regression and modelling, and increasingly leveraging AI-assisted approaches, to develop insights that support leadership decision-making within real organisations.
 
 ## Areas of Interest
 
@@ -20,5 +20,6 @@ I am particularly interested in analytics as a means of story-telling; identifyi
 
 - SQL for exploratory data analysis
 - Excel for regression modelling and forecasting
+- Leveraging AI-assisted tools to support exploratory analysis, research, and workflow efficiency
 - Structured approach to problem framing grounded in real-world organisational contexts
 - Clear-writing and communication of analysis results
